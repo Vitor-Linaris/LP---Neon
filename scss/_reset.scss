@@ -18,6 +18,9 @@ html {
     @include responsive(1280px) {
         font-size: 58%;
     }
+    @include responsive(991px) {
+        font-size: 62.5%;
+    }
 }
 
 html,
