@@ -14,10 +14,8 @@ a etapas intermédiarias em uma sequência de animações CSS.
 
 ## Funcionalidades
 
-- Temas dark e light
-- Preview em tempo real
-- Modo tela cheia
-- Multiplataforma
+- Responsive
+- Otimizado
 
 
 ## Screenshots
